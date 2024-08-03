@@ -7,5 +7,6 @@ Program Info |
 To change the input variable modify the following in the image below by modifying the size to match the array, and modfying all of the arrays to match if you want to see the various ways the program scrambles the array
 
 
-![image](https://github.com/user-attachments/assets/26029f7d-6eba-4934-8026-b853f4aef005)
+![image](https://github.com/user-attachments/assets/12020de4-c72b-4402-abbd-323e61c65599)
+
 
