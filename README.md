@@ -4,6 +4,8 @@ ScrambleSpell is a simple C++ program that scrambles the content of a an array f
 
 Program Info |
 
-To change the input variable modify the following below by modifying the size to match the array, and modfying all of the arrays to match if you want to see the various ways the program scrambles the array
+To change the input variable modify the following in the image below by modifying the size to match the array, and modfying all of the arrays to match if you want to see the various ways the program scrambles the array
+
+
 ![image](https://github.com/user-attachments/assets/26029f7d-6eba-4934-8026-b853f4aef005)
 
